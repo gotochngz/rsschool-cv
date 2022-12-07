@@ -1,10 +1,10 @@
 ### **CV**
 
 
-* ## Name##: Chyngyz
+* ## Name: ### Chyngyz
 
 
-* # Lastname#:  ### Dzhumadylov
+* ## Lastname:  ### Dzhumadylov
 
 
 * ## Date of birth: ### 03.11.1994

@@ -1,3 +1,22 @@
+html {
+    background-color:azure;
+    margin:auto;
+    font-family: 'IBM Plex Mono', monospace;
+}
+body{
+    max-width: 1440px;
+    margin:auto;
+    justify-content:center ;
+}
 h1 {
-    color:blueviolet;
+    color:black;
+}
+.header {
+    border: 3px solid black;
+    display:flex;
+    width:100%;
+    justify-content: space-between;
+}
+.header__nav__ul{
+  display: flex;
 }

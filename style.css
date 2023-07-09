@@ -58,7 +58,7 @@ a {
 .header__img {
     width : 135px;
     height: 170px;
-    background: url(img/photo1.jpg);
+    background: url(photo1.jpg);
 }
 .section__item {
     font-weight: 600;

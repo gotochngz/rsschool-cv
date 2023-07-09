@@ -7,7 +7,7 @@
 * ## Lastname: Dzhumadylov
 
 
-* ## Date of birth: ### 03.11.1994
+* ## Date of birth: ### 03.11.
 
 
 * ## Contact information: 
